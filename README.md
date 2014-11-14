@@ -1,4 +1,4 @@
 calendarIQ
 ==========
 
-Adding a commit.
+![CI](https://travis-ci.org/tischler/calendarIQ.svg?branch=master)
