@@ -1,5 +1,7 @@
 # CalendarIQ
 
+![CI](https://travis-ci.org/tischler/calendarIQ.svg?branch=master)
+
 Finatra requires either [maven](http://maven.apache.org/) or [sbt](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html) to build and run your app.
 
 ## SBT Instructions
